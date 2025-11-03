@@ -61,13 +61,13 @@ body {
 }
 
 .left p {
+    margin: 0px;
     white-space: pre-line;
     line-height: 1.5;
 }
 
 .left:hover {
     background-color: #f0f0f0;
-    cursor: pointer;
     transition: background-color 0.3s ease; 
 }
 
@@ -115,6 +115,6 @@ body {
 
 .right:hover {
     background-color: #f0f0f0;
-    cursor: pointer;
     transition: background-color 0.3s ease; 
 }
+
