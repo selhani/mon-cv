@@ -281,4 +281,9 @@ body {
         font-size: 14px;
         line-height: 1.4;
     }
+
+    .left:hover,
+    .right:hover {
+        background-color: #fff;
+    }
 }
