@@ -4,4 +4,4 @@ Voici mon CV au format **HTML / CSS** !
 
 ## Aperçu de mon CV en ligne
 
-[Voir le cv en ligne](https://el-hani4.github.io/mon-cv/)
+[Voir le cv en ligne](https://selhani.github.io/mon-cv/)
